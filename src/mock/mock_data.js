@@ -112,6 +112,13 @@ export const mockData = {
           "url": "https://www.west.cn",
           "description": "西部数码金牌代理商",
           "icon": "https://www.faviconextractor.com/favicon/www.west.cn"
+        },
+        {
+          "id": "site-1784136910397",
+          "name": "甲骨文",
+          "url": "https://www.oracle.com/",
+          "description": "赛博活佛2号",
+          "icon": "https://www.faviconextractor.com/favicon/www.oracle.com"
         }
       ]
     },
