@@ -10,7 +10,7 @@ export const mockData = {
           "id": "site-1784132803530",
           "name": "飞牛NAS",
           "url": "https://nas.yongshizhen.com",
-          "description": "",
+          "description": "企业文件存储，在线学习",
           "icon": "https://www.faviconextractor.com/favicon/nas.yongshizhen.com"
         },
         {
