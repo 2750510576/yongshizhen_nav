@@ -90,6 +90,13 @@ export const mockData = {
           "url": "https://www.oracle.com/",
           "description": "赛博活佛2号",
           "icon": "https://www.faviconextractor.com/favicon/www.oracle.com"
+        },
+        {
+          "id": "site-1784138402322",
+          "name": "Github",
+          "url": "https://github.com/",
+          "description": "云端代码托管平台",
+          "icon": "https://www.faviconextractor.com/favicon/github.com"
         }
       ]
     },
