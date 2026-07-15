@@ -24,7 +24,7 @@ export const mockData = {
           "id": "site-1784133774763",
           "name": "甬时珍考试网",
           "url": "https://exam.yongshizhen.com/",
-          "description": "企业内部员工线上考核专用平台",
+          "description": "内部线上考核专用平台",
           "icon": "https://img1.baidu.com/it/u=3287851643,117444845&fm=253&fmt=auto&app=138&f=JPEG"
         },
         {
