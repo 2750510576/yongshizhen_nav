@@ -55,7 +55,15 @@ export const mockData = {
       "name": "常用列表",
       "icon": "💼",
       "order": 1,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1784140269965",
+          "name": "药师帮",
+          "url": "https://dian.ysbang.cn/",
+          "description": "",
+          "icon": "https://img.itmop.com/upload/2017-7/2017731421246171.png"
+        }
+      ]
     },
     {
       "id": "learning",
