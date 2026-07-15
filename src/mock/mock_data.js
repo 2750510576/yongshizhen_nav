@@ -33,6 +33,13 @@ export const mockData = {
           "url": "https://www.yongshizhen.com",
           "description": "弘扬企业文化",
           "icon": "https://www.yongshizhen.com/logo.png"
+        },
+        {
+          "id": "site-1784138126960",
+          "name": "甬时珍邮箱",
+          "url": "https://mail.yongshizhen.com/",
+          "description": "注册邮箱联系公司管理员",
+          "icon": "https://www.faviconextractor.com/favicon/mail.yongshizhen.com"
         }
       ]
     },
