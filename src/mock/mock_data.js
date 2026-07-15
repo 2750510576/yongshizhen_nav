@@ -21,6 +21,13 @@ export const mockData = {
           "icon": "https://5b0988e595225.cdn.sohucs.com/images/20190710/0b2d0cd07cab4be7b7e9b2170315c1b9.png"
         },
         {
+          "id": "site-1784133774763",
+          "name": "甬时珍考试网",
+          "url": "https://exam.yongshizhen.com/",
+          "description": "",
+          "icon": "https://img1.baidu.com/it/u=3196751577,346429158&fm=253&app=138&f=JPEG"
+        },
+        {
           "id": "site-1784132859742",
           "name": "甬时珍集团官网",
           "url": "https://www.yongshizhen.com",
