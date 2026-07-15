@@ -68,14 +68,14 @@ export const mockData = {
           "name": "莽过教育执业药师",
           "url": "https://space.bilibili.com/93253335",
           "description": "2026最新执业药师学习",
-          "icon": "https://www.faviconextractor.com/favicon/space.bilibili.com"
+          "icon": "https://i-2.tts8.com/2022/0628/92bc23d5070b42a6be1b4965b8a68219.png"
         },
         {
           "id": "site-1784135817996",
           "name": "麦蓝教育执业药师",
           "url": "https://space.bilibili.com/3546968242522343/lists/8552643?type=season",
           "description": "2026最新执业药师学习",
-          "icon": "https://www.faviconextractor.com/favicon/space.bilibili.com"
+          "icon": "https://i-2.tts8.com/2022/0628/92bc23d5070b42a6be1b4965b8a68219.png"
         },
         {
           "id": "runoob",
