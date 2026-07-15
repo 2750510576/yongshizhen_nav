@@ -4,7 +4,7 @@ export const mockData = {
       "id": "ai-tools",
       "name": "自研平台",
       "icon": "🤖",
-      "order": 1,
+      "order": 0,
       "sites": [
         {
           "id": "site-1784132803530",
@@ -33,6 +33,42 @@ export const mockData = {
           "url": "https://www.yongshizhen.com",
           "description": "弘扬企业文化",
           "icon": "https://www.yongshizhen.com/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "office",
+      "name": "办公协作",
+      "icon": "💼",
+      "order": 1,
+      "sites": [
+        {
+          "id": "notion",
+          "name": "Notion",
+          "url": "https://www.notion.so",
+          "description": "全能工作空间",
+          "icon": "/sitelogo/www.notion.so.ico"
+        },
+        {
+          "id": "slack",
+          "name": "Slack",
+          "url": "https://slack.com",
+          "description": "团队协作工具",
+          "icon": "/sitelogo/slack.com.ico"
+        },
+        {
+          "id": "trello",
+          "name": "Trello",
+          "url": "https://trello.com",
+          "description": "项目管理工具",
+          "icon": "/sitelogo/trello.com.ico"
+        },
+        {
+          "id": "feishu",
+          "name": "飞书",
+          "url": "https://www.feishu.cn",
+          "description": "企业协作平台",
+          "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
     },
@@ -255,7 +291,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 8,
+      "order": 7,
       "sites": [
         {
           "id": "site-1784135417970",
@@ -298,7 +334,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 9,
+      "order": 8,
       "sites": [
         {
           "id": "json-formatter",
@@ -327,42 +363,6 @@ export const mockData = {
           "url": "https://tinypng.com",
           "description": "图片压缩工具",
           "icon": "/sitelogo/tinypng.com.ico"
-        }
-      ]
-    },
-    {
-      "id": "office",
-      "name": "办公协作",
-      "icon": "💼",
-      "order": 2,
-      "sites": [
-        {
-          "id": "notion",
-          "name": "Notion",
-          "url": "https://www.notion.so",
-          "description": "全能工作空间",
-          "icon": "/sitelogo/www.notion.so.ico"
-        },
-        {
-          "id": "slack",
-          "name": "Slack",
-          "url": "https://slack.com",
-          "description": "团队协作工具",
-          "icon": "/sitelogo/slack.com.ico"
-        },
-        {
-          "id": "trello",
-          "name": "Trello",
-          "url": "https://trello.com",
-          "description": "项目管理工具",
-          "icon": "/sitelogo/trello.com.ico"
-        },
-        {
-          "id": "feishu",
-          "name": "飞书",
-          "url": "https://www.feishu.cn",
-          "description": "企业协作平台",
-          "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
     }
