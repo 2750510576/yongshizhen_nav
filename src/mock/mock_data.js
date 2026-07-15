@@ -86,7 +86,7 @@ export const mockData = {
         },
         {
           "id": "site-1784136910397",
-          "name": "甲骨文",
+          "name": "Oracle",
           "url": "https://www.oracle.com/",
           "description": "赛博活佛2号",
           "icon": "https://www.faviconextractor.com/favicon/www.oracle.com"
