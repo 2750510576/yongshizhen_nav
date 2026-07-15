@@ -190,6 +190,20 @@ export const mockData = {
           "url": "https://smallpdf.com/cn/jpg-to-pdf",
           "description": "",
           "icon": "https://s.smallpdf.com/static/e8d61118bbf714f1.png"
+        },
+        {
+          "id": "site-1784142274178",
+          "name": "PDF合并",
+          "url": "https://smallpdf.com/cn/merge-pdf",
+          "description": "",
+          "icon": "https://s.smallpdf.com/static/e8d61118bbf714f1.png"
+        },
+        {
+          "id": "site-1784142397112",
+          "name": "图片大小压缩",
+          "url": "https://imagecompressor.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/imagecompressor.com"
         }
       ]
     },
