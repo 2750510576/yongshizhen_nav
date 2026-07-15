@@ -45,7 +45,7 @@ export const mockData = {
     },
     {
       "id": "office",
-      "name": "办公协作",
+      "name": "常用列表",
       "icon": "💼",
       "order": 1,
       "sites": [
