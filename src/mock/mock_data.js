@@ -125,7 +125,7 @@ export const mockData = {
           "name": "Oracle",
           "url": "https://www.oracle.com/",
           "description": "赛博活佛2号",
-          "icon": "https://www.faviconextractor.com/favicon/www.oracle.com"
+          "icon": "https://www.oracle.com/asset/web/favicons/favicon-180.png"
         },
         {
           "id": "vercel",
