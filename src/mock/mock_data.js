@@ -284,6 +284,13 @@ export const mockData = {
           "url": "https://www.coursera.org",
           "description": "在线课程平台",
           "icon": "/sitelogo/www.coursera.org.ico"
+        },
+        {
+          "id": "site-1784134893574",
+          "name": "小黑二级计算机WPS",
+          "url": "https://www.xiaoheiketang.com/courseDetail?course_id=2635",
+          "description": "计算机二级WPS真题解析",
+          "icon": "https://www.faviconextractor.com/favicon/www.xiaoheiketang.com"
         }
       ]
     },
