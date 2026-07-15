@@ -105,6 +105,13 @@ export const mockData = {
           "url": "https://cloud.tencent.com",
           "description": "腾讯云计算服务",
           "icon": "/sitelogo/cloud.tencent.com.ico"
+        },
+        {
+          "id": "site-1784136847945",
+          "name": "西部数码",
+          "url": "https://www.west.cn",
+          "description": "西部数码金牌代理商",
+          "icon": "https://www.faviconextractor.com/favicon/www.west.cn"
         }
       ]
     },
