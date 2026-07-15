@@ -12,6 +12,13 @@ export const mockData = {
           "url": "https://nas.yongshizhen.com",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/nas.yongshizhen.com"
+        },
+        {
+          "id": "site-1784132859742",
+          "name": "集团官网",
+          "url": "https://www.yongshizhen.com",
+          "description": "",
+          "icon": ""
         }
       ]
     },
