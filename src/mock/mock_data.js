@@ -47,6 +47,13 @@ export const mockData = {
           "url": "https://www.yongshizhen.com",
           "description": "弘扬企业文化",
           "icon": "https://www.yongshizhen.com/logo.png"
+        },
+        {
+          "id": "site-1784141776712",
+          "name": "甬时珍AI辨证",
+          "url": "https://ai.yongshizhen.com/",
+          "description": "开发中...暂不开放",
+          "icon": "https://product-upload-picture.bj.bcebos.com/2a0c76ac-7597-43e6-a850-f6769e98e617/6d171694-c2cd-48a9-9552-a5e440ba9b85/1/picture__342b30a5-8acd-4d36-a06c-19b0e9467a40.png"
         }
       ]
     },
@@ -117,7 +124,7 @@ export const mockData = {
           "name": "宁波益智春",
           "url": "https://www.zjyizhichun.com/",
           "description": "本地合作器械公司",
-          "icon": ""
+          "icon": "https://i.imgs.ovh/2026/07/16/ccb9e33d65e27e4675eba14942f240ed.png"
         },
         {
           "id": "site-1784140549721",
