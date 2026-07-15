@@ -291,6 +291,13 @@ export const mockData = {
           "url": "https://www.xiaoheiketang.com/courseDetail?course_id=2635",
           "description": "计算机二级WPS真题解析",
           "icon": "https://www.faviconextractor.com/favicon/www.xiaoheiketang.com"
+        },
+        {
+          "id": "site-1784135417970",
+          "name": "莽过教育执业药师",
+          "url": "https://space.bilibili.com/93253335",
+          "description": "2026最新执业药师学习",
+          "icon": "https://www.faviconextractor.com/favicon/space.bilibili.com"
         }
       ]
     },
