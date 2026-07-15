@@ -201,7 +201,7 @@ export const mockData = {
         {
           "id": "site-1784142397112",
           "name": "图片大小压缩",
-          "url": "https://imagecompressor.com/",
+          "url": "https://imagecompressor.com/zh/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/imagecompressor.com"
         }
