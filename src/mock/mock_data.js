@@ -118,6 +118,13 @@ export const mockData = {
           "url": "https://www.52pojie.cn/",
           "description": "软件安全与破解技术论坛",
           "icon": "https://www.faviconextractor.com/favicon/www.52pojie.cn"
+        },
+        {
+          "id": "github",
+          "name": "GitHub",
+          "url": "https://github.com",
+          "description": "代码托管平台",
+          "icon": "/sitelogo/github.com.ico"
         }
       ]
     },
@@ -127,13 +134,6 @@ export const mockData = {
       "icon": "🛠️",
       "order": 3,
       "sites": [
-        {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
-        },
         {
           "id": "vscode",
           "name": "VS Code",
