@@ -85,13 +85,6 @@ export const mockData = {
           "icon": "https://www.yyjzt.com/favicon.ico"
         },
         {
-          "id": "site-1784140549721",
-          "name": "重庆云采",
-          "url": "https://www.yuncai998.com/",
-          "description": "重庆药品供应平台",
-          "icon": "https://www.faviconextractor.com/favicon/www.yuncai998.com"
-        },
-        {
           "id": "site-1784141056885",
           "name": "上药宁波",
           "url": "https://synbotc.shaphar.com/",
@@ -111,6 +104,13 @@ export const mockData = {
           "url": "http://www.nbxdyl.com/",
           "description": "本地合作器械公司",
           "icon": "https://www.faviconextractor.com/favicon/www.nbxdyl.com"
+        },
+        {
+          "id": "site-1784140549721",
+          "name": "重庆云采",
+          "url": "https://www.yuncai998.com/",
+          "description": "重庆药品供应平台",
+          "icon": "https://www.faviconextractor.com/favicon/www.yuncai998.com"
         }
       ]
     },
