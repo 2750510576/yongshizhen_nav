@@ -104,6 +104,13 @@ export const mockData = {
           "url": "https://www.tance.cc/",
           "description": "全球多节点网站拨测与安全体检",
           "icon": "https://www.faviconextractor.com/favicon/www.tance.cc"
+        },
+        {
+          "id": "site-1784138635589",
+          "name": "吾爱破解",
+          "url": "https://www.52pojie.cn/",
+          "description": "软件安全与破解技术论坛",
+          "icon": "https://www.faviconextractor.com/favicon/www.52pojie.cn"
         }
       ]
     },
