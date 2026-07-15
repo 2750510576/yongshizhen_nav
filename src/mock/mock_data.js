@@ -517,7 +517,7 @@ export const mockData = {
       ]
     }
   ],
-  "title": "甬时珍 - 药店百宝箱",
+  "title": "药店百宝箱",
   "search": "baidu",
-  "_fileSha": "185fe10e1c4057e9de9d303cc382b30de8206e8f"
+  "_fileSha": "572516045de9f2ba182dcd9eb591937716122c00"
 }
