@@ -92,6 +92,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/www.yuncai998.com"
         },
         {
+          "id": "site-1784141056885",
+          "name": "上药宁波",
+          "url": "https://synbotc.shaphar.com/",
+          "description": "本地合作医药公司",
+          "icon": "https://i.imgs.ovh/2026/07/16/370ba3f36131f077568f7a69fde5f1ba.png"
+        },
+        {
           "id": "site-1784140859723",
           "name": "宁波英特",
           "url": "https://nbyt.drugoogle.com/",
@@ -104,13 +111,6 @@ export const mockData = {
           "url": "http://www.nbxdyl.com/",
           "description": "本地合作器械公司",
           "icon": "https://www.faviconextractor.com/favicon/www.nbxdyl.com"
-        },
-        {
-          "id": "site-1784141056885",
-          "name": "上药宁波",
-          "url": "https://synbotc.shaphar.com/",
-          "description": "本地合作医药公司",
-          "icon": "https://i.imgs.ovh/2026/07/16/370ba3f36131f077568f7a69fde5f1ba.png"
         }
       ]
     },
