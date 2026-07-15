@@ -97,6 +97,20 @@ export const mockData = {
           "url": "https://nbyt.drugoogle.com/",
           "description": "本地合作医药公司",
           "icon": "https://pic.rmb.bdstatic.com/bjh/events/d86ad459fbb9dab89a6c2257a99cfc74.jpeg"
+        },
+        {
+          "id": "site-1784140925149",
+          "name": "宁波旭栋",
+          "url": "http://www.nbxdyl.com/",
+          "description": "本地合作器械公司",
+          "icon": "https://www.faviconextractor.com/favicon/www.nbxdyl.com"
+        },
+        {
+          "id": "site-1784141056885",
+          "name": "上药宁波",
+          "url": "https://synbotc.shaphar.com/",
+          "description": "本地合作医药公司",
+          "icon": "https://i.imgs.ovh/2026/07/16/370ba3f36131f077568f7a69fde5f1ba.png"
         }
       ]
     },
