@@ -52,7 +52,7 @@ export const mockData = {
     },
     {
       "id": "cloud",
-      "name": "云服务",
+      "name": "技术支持",
       "icon": "☁️",
       "order": 2,
       "sites": [
@@ -69,13 +69,6 @@ export const mockData = {
           "url": "https://vercel.com",
           "description": "前端部署平台",
           "icon": "/sitelogo/vercel.com.ico"
-        },
-        {
-          "id": "aliyun",
-          "name": "阿里云",
-          "url": "https://www.aliyun.com",
-          "description": "阿里巴巴云计算",
-          "icon": "/sitelogo/www.aliyun.com.ico"
         },
         {
           "id": "tencent-cloud",
