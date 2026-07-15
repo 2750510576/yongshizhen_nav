@@ -187,28 +187,6 @@ export const mockData = {
       ]
     },
     {
-      "id": "category-1774510899116",
-      "icon": "☠️",
-      "name": "DDDD",
-      "order": 4,
-      "sites": [
-        {
-          "id": "site-1774510993770",
-          "name": "RiskTest",
-          "url": "https://risk.copolits.com/",
-          "description": "检测风控",
-          "icon": "https://www.faviconextractor.com/favicon/risk.copolits.com"
-        },
-        {
-          "id": "site-1774511036557",
-          "name": "虚拟地址",
-          "url": "https://ip-geoaddress-generator.pages.dev/",
-          "description": "获取当前ip地址",
-          "icon": "https://www.faviconextractor.com/favicon/ip-geoaddress-generator.pages.dev"
-        }
-      ]
-    },
-    {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
