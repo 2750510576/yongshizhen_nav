@@ -156,20 +156,6 @@ export const mockData = {
           "icon": "https://i-2.tts8.com/2022/0628/92bc23d5070b42a6be1b4965b8a68219.png"
         },
         {
-          "id": "runoob",
-          "name": "菜鸟教程",
-          "url": "https://www.runoob.com",
-          "description": "编程技术教程",
-          "icon": "/sitelogo/www.runoob.com.ico"
-        },
-        {
-          "id": "coursera",
-          "name": "Coursera",
-          "url": "https://www.coursera.org",
-          "description": "在线课程平台",
-          "icon": "/sitelogo/www.coursera.org.ico"
-        },
-        {
           "id": "site-1784134893574",
           "name": "小黑二级计算机WPS",
           "url": "https://www.xiaoheiketang.com/courseDetail?course_id=2635",
