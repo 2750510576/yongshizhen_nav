@@ -7,13 +7,6 @@ export const mockData = {
       "order": 1,
       "sites": [
         {
-          "id": "claude",
-          "name": "Claude",
-          "url": "https://claude.ai",
-          "description": "Anthropic AI助手",
-          "icon": "/sitelogo/claude.ai.ico"
-        },
-        {
           "id": "midjourney",
           "name": "Midjourney",
           "url": "https://www.midjourney.com",
