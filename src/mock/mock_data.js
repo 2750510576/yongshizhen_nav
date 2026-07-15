@@ -36,7 +36,7 @@ export const mockData = {
         },
         {
           "id": "site-1784139206014",
-          "name": "甬时珍门店基础操作",
+          "name": "甬时珍门店操作教程",
           "url": "https://docs.yongshizhen.com/",
           "description": "持续完善中...",
           "icon": "https://www.faviconextractor.com/favicon/docs.yongshizhen.com"
