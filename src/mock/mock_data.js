@@ -284,6 +284,13 @@ export const mockData = {
           "url": "https://space.bilibili.com/93253335",
           "description": "2026最新执业药师学习",
           "icon": "https://www.faviconextractor.com/favicon/space.bilibili.com"
+        },
+        {
+          "id": "site-1784135817996",
+          "name": "麦蓝教育执业药师",
+          "url": "https://space.bilibili.com/3546968242522343/lists/8552643?type=season",
+          "description": "2026最新执业药师学习",
+          "icon": "https://www.faviconextractor.com/favicon/space.bilibili.com"
         }
       ]
     },
