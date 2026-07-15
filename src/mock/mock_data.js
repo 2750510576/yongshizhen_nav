@@ -2,17 +2,10 @@ export const mockData = {
   "categories": [
     {
       "id": "ai-tools",
-      "name": "AI智能",
+      "name": "自研平台",
       "icon": "🤖",
       "order": 1,
       "sites": [
-        {
-          "id": "chatgpt",
-          "name": "ChatGPT",
-          "url": "https://chat.openai.com",
-          "description": "OpenAI对话AI助手",
-          "icon": "/sitelogo/chat.openai.com.ico"
-        },
         {
           "id": "claude",
           "name": "Claude",
@@ -468,6 +461,5 @@ export const mockData = {
     }
   ],
   "title": "药店百宝箱",
-  "search": "baidu",
-  "_fileSha": "d77d2294de041f1f951fbcae93dcbd0cb7187da8"
+  "search": "baidu"
 }
