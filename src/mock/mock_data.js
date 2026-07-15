@@ -60,8 +60,29 @@ export const mockData = {
           "id": "site-1784140269965",
           "name": "药师帮",
           "url": "https://dian.ysbang.cn/",
-          "description": "",
+          "description": "全国药品供应平台",
           "icon": "https://img.itmop.com/upload/2017-7/2017731421246171.png"
+        },
+        {
+          "id": "site-1784140392768",
+          "name": "药帮忙",
+          "url": "https://www.ybm100.com/",
+          "description": "全国药品供应平台",
+          "icon": "https://img2.baidu.com/it/u=2824440891,3889624043&fm=253&fmt=auto&app=138&f=JPEG"
+        },
+        {
+          "id": "site-1784140470200",
+          "name": "一药城",
+          "url": "https://mall.yaoex.com/",
+          "description": "全国药品供应平台",
+          "icon": "https://aisearch.cdn.bcebos.com/pic_create/2026-07-16/02/9da9a4c5f2349e6823f19319b2304e42.jpeg"
+        },
+        {
+          "id": "site-1784140549721",
+          "name": "重庆云采",
+          "url": "https://www.yuncai998.com/",
+          "description": "重庆药品供应平台",
+          "icon": "https://www.faviconextractor.com/favicon/www.yuncai998.com"
         }
       ]
     },
