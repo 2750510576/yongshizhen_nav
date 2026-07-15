@@ -35,6 +35,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/mail.yongshizhen.com"
         },
         {
+          "id": "site-1784139206014",
+          "name": "甬时珍门店基础操作",
+          "url": "https://docs.yongshizhen.com/",
+          "description": "持续完善中...",
+          "icon": "https://www.faviconextractor.com/favicon/docs.yongshizhen.com"
+        },
+        {
           "id": "site-1784132859742",
           "name": "甬时珍集团官网",
           "url": "https://www.yongshizhen.com",
@@ -106,11 +113,11 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/www.tance.cc"
         },
         {
-          "id": "52pojie",
+          "id": "site-1784138635589",
           "name": "吾爱破解",
           "url": "https://www.52pojie.cn/",
           "description": "软件安全与破解技术论坛",
-          "icon": "/sitelogo/www.52pojie.cn.ico"
+          "icon": "https://www.faviconextractor.com/favicon/www.52pojie.cn"
         }
       ]
     },
@@ -204,6 +211,13 @@ export const mockData = {
           "url": "https://www.v2ex.com",
           "description": "创意工作者社区",
           "icon": "/sitelogo/www.v2ex.com.ico"
+        },
+        {
+          "id": "52pojie",
+          "name": "吾爱破解",
+          "url": "https://www.52pojie.cn/",
+          "description": "软件安全与破解技术论坛",
+          "icon": "/sitelogo/www.52pojie.cn.ico"
         }
       ]
     },
