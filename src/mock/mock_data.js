@@ -190,6 +190,13 @@ export const mockData = {
           "url": "https://imagecompressor.com/zh/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/imagecompressor.com"
+        },
+        {
+          "id": "site-1784142850947",
+          "name": "图片格式转换",
+          "url": "https://imageconverter.com/zh/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/imageconverter.com"
         }
       ]
     },
