@@ -58,10 +58,53 @@ export const mockData = {
       "sites": []
     },
     {
+      "id": "learning",
+      "name": "学习资源",
+      "icon": "📚",
+      "order": 2,
+      "sites": [
+        {
+          "id": "site-1784135417970",
+          "name": "莽过教育执业药师",
+          "url": "https://space.bilibili.com/93253335",
+          "description": "2026最新执业药师学习",
+          "icon": "https://www.faviconextractor.com/favicon/space.bilibili.com"
+        },
+        {
+          "id": "site-1784135817996",
+          "name": "麦蓝教育执业药师",
+          "url": "https://space.bilibili.com/3546968242522343/lists/8552643?type=season",
+          "description": "2026最新执业药师学习",
+          "icon": "https://www.faviconextractor.com/favicon/space.bilibili.com"
+        },
+        {
+          "id": "runoob",
+          "name": "菜鸟教程",
+          "url": "https://www.runoob.com",
+          "description": "编程技术教程",
+          "icon": "/sitelogo/www.runoob.com.ico"
+        },
+        {
+          "id": "coursera",
+          "name": "Coursera",
+          "url": "https://www.coursera.org",
+          "description": "在线课程平台",
+          "icon": "/sitelogo/www.coursera.org.ico"
+        },
+        {
+          "id": "site-1784134893574",
+          "name": "小黑二级计算机WPS",
+          "url": "https://www.xiaoheiketang.com/courseDetail?course_id=2635",
+          "description": "计算机二级WPS真题解析",
+          "icon": "https://www.faviconextractor.com/favicon/www.xiaoheiketang.com"
+        }
+      ]
+    },
+    {
       "id": "cloud",
       "name": "技术支持",
       "icon": "☁️",
-      "order": 2,
+      "order": 3,
       "sites": [
         {
           "id": "cloudflare",
@@ -132,7 +175,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 3,
+      "order": 4,
       "sites": [
         {
           "id": "vscode",
@@ -258,53 +301,10 @@ export const mockData = {
       ]
     },
     {
-      "id": "learning",
-      "name": "学习资源",
-      "icon": "📚",
-      "order": 7,
-      "sites": [
-        {
-          "id": "site-1784135417970",
-          "name": "莽过教育执业药师",
-          "url": "https://space.bilibili.com/93253335",
-          "description": "2026最新执业药师学习",
-          "icon": "https://www.faviconextractor.com/favicon/space.bilibili.com"
-        },
-        {
-          "id": "site-1784135817996",
-          "name": "麦蓝教育执业药师",
-          "url": "https://space.bilibili.com/3546968242522343/lists/8552643?type=season",
-          "description": "2026最新执业药师学习",
-          "icon": "https://www.faviconextractor.com/favicon/space.bilibili.com"
-        },
-        {
-          "id": "runoob",
-          "name": "菜鸟教程",
-          "url": "https://www.runoob.com",
-          "description": "编程技术教程",
-          "icon": "/sitelogo/www.runoob.com.ico"
-        },
-        {
-          "id": "coursera",
-          "name": "Coursera",
-          "url": "https://www.coursera.org",
-          "description": "在线课程平台",
-          "icon": "/sitelogo/www.coursera.org.ico"
-        },
-        {
-          "id": "site-1784134893574",
-          "name": "小黑二级计算机WPS",
-          "url": "https://www.xiaoheiketang.com/courseDetail?course_id=2635",
-          "description": "计算机二级WPS真题解析",
-          "icon": "https://www.faviconextractor.com/favicon/www.xiaoheiketang.com"
-        }
-      ]
-    },
-    {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 8,
+      "order": 7,
       "sites": [
         {
           "id": "json-formatter",
