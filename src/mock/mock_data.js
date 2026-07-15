@@ -97,6 +97,13 @@ export const mockData = {
           "url": "https://github.com/",
           "description": "云端代码托管平台",
           "icon": "https://www.faviconextractor.com/favicon/github.com"
+        },
+        {
+          "id": "site-1784138494320",
+          "name": "IT探测",
+          "url": "https://www.tance.cc/",
+          "description": "全球多节点网站拨测与安全体检",
+          "icon": "https://www.faviconextractor.com/favicon/www.tance.cc"
         }
       ]
     },
