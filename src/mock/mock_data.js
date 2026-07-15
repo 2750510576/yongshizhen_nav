@@ -18,7 +18,7 @@ export const mockData = {
           "name": "甬时珍集团官网",
           "url": "https://www.yongshizhen.com",
           "description": "学习企业文化",
-          "icon": ""
+          "icon": "https://www.yongshizhen.com/logo.png"
         }
       ]
     },
