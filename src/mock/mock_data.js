@@ -78,6 +78,13 @@ export const mockData = {
           "icon": "https://aisearch.cdn.bcebos.com/pic_create/2026-07-16/02/9da9a4c5f2349e6823f19319b2304e42.jpeg"
         },
         {
+          "id": "site-1784140737474",
+          "name": "九州通",
+          "url": "https://www.yyjzt.com/",
+          "description": "全国药品供应平台",
+          "icon": "https://www.yyjzt.com/favicon.ico"
+        },
+        {
           "id": "site-1784140549721",
           "name": "重庆云采",
           "url": "https://www.yuncai998.com/",
