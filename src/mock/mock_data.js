@@ -113,6 +113,13 @@ export const mockData = {
           "icon": "https://static.tianyancha.com/logo/product/d0ea22c66700cc000bd4df134f1ce964.jpg"
         },
         {
+          "id": "site-1784140549721",
+          "name": "重庆云采",
+          "url": "https://www.yuncai998.com/",
+          "description": "重庆药品供应平台",
+          "icon": "https://www.faviconextractor.com/favicon/www.yuncai998.com"
+        },
+        {
           "id": "site-1784140925149",
           "name": "宁波旭栋",
           "url": "http://www.nbxdyl.com/",
@@ -125,13 +132,6 @@ export const mockData = {
           "url": "https://www.zjyizhichun.com/",
           "description": "本地合作器械公司",
           "icon": "https://i.imgs.ovh/2026/07/16/ccb9e33d65e27e4675eba14942f240ed.png"
-        },
-        {
-          "id": "site-1784140549721",
-          "name": "重庆云采",
-          "url": "https://www.yuncai998.com/",
-          "description": "重庆药品供应平台",
-          "icon": "https://www.faviconextractor.com/favicon/www.yuncai998.com"
         }
       ]
     },
