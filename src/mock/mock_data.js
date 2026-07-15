@@ -114,6 +114,20 @@ export const mockData = {
           "icon": "/sitelogo/www.cloudflare.com.ico"
         },
         {
+          "id": "github",
+          "name": "GitHub",
+          "url": "https://github.com",
+          "description": "代码托管平台",
+          "icon": "/sitelogo/github.com.ico"
+        },
+        {
+          "id": "site-1784136910397",
+          "name": "Oracle",
+          "url": "https://www.oracle.com/",
+          "description": "赛博活佛2号",
+          "icon": "https://www.faviconextractor.com/favicon/www.oracle.com"
+        },
+        {
           "id": "vercel",
           "name": "Vercel",
           "url": "https://vercel.com",
@@ -135,20 +149,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/www.west.cn"
         },
         {
-          "id": "site-1784136910397",
-          "name": "Oracle",
-          "url": "https://www.oracle.com/",
-          "description": "赛博活佛2号",
-          "icon": "https://www.faviconextractor.com/favicon/www.oracle.com"
-        },
-        {
-          "id": "site-1784138402322",
-          "name": "Github",
-          "url": "https://github.com/",
-          "description": "云端代码托管平台",
-          "icon": "https://www.faviconextractor.com/favicon/github.com"
-        },
-        {
           "id": "site-1784138494320",
           "name": "IT探测",
           "url": "https://www.tance.cc/",
@@ -161,13 +161,6 @@ export const mockData = {
           "url": "https://www.52pojie.cn/",
           "description": "软件安全与破解技术论坛",
           "icon": "https://www.faviconextractor.com/favicon/www.52pojie.cn"
-        },
-        {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
         }
       ]
     },
