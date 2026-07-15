@@ -99,6 +99,13 @@ export const mockData = {
           "icon": "https://pic.rmb.bdstatic.com/bjh/events/d86ad459fbb9dab89a6c2257a99cfc74.jpeg"
         },
         {
+          "id": "site-1784141157912",
+          "name": "宁波珍诚",
+          "url": "https://www.zc511.com/",
+          "description": "本地合作医药公司",
+          "icon": "https://static.tianyancha.com/logo/product/d0ea22c66700cc000bd4df134f1ce964.jpg"
+        },
+        {
           "id": "site-1784140925149",
           "name": "宁波旭栋",
           "url": "http://www.nbxdyl.com/",
