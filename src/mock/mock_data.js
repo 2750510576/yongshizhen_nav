@@ -106,11 +106,11 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/www.tance.cc"
         },
         {
-          "id": "site-1784138635589",
+          "id": "52pojie",
           "name": "吾爱破解",
           "url": "https://www.52pojie.cn/",
           "description": "软件安全与破解技术论坛",
-          "icon": "https://www.faviconextractor.com/favicon/www.52pojie.cn"
+          "icon": "/sitelogo/www.52pojie.cn.ico"
         }
       ]
     },
@@ -204,13 +204,6 @@ export const mockData = {
           "url": "https://www.v2ex.com",
           "description": "创意工作者社区",
           "icon": "/sitelogo/www.v2ex.com.ico"
-        },
-        {
-          "id": "52pojie",
-          "name": "吾爱破解",
-          "url": "https://www.52pojie.cn/",
-          "description": "软件安全与破解技术论坛",
-          "icon": "/sitelogo/www.52pojie.cn.ico"
         }
       ]
     },
