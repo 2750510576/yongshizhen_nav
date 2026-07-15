@@ -101,10 +101,46 @@ export const mockData = {
       ]
     },
     {
+      "id": "tools",
+      "name": "在线工具",
+      "icon": "⚙️",
+      "order": 3,
+      "sites": [
+        {
+          "id": "json-formatter",
+          "name": "JSON Formatter",
+          "url": "https://jsonformatter.org",
+          "description": "JSON格式化工具",
+          "icon": "/sitelogo/jsonformatter.org.ico"
+        },
+        {
+          "id": "regex101",
+          "name": "Regex101",
+          "url": "https://regex101.com",
+          "description": "正则表达式测试",
+          "icon": "/sitelogo/regex101.com.ico"
+        },
+        {
+          "id": "caniuse",
+          "name": "Can I Use",
+          "url": "https://caniuse.com",
+          "description": "浏览器兼容性查询",
+          "icon": "/sitelogo/caniuse.com.ico"
+        },
+        {
+          "id": "tinypng",
+          "name": "TinyPNG",
+          "url": "https://tinypng.com",
+          "description": "图片压缩工具",
+          "icon": "/sitelogo/tinypng.com.ico"
+        }
+      ]
+    },
+    {
       "id": "cloud",
       "name": "技术支持",
       "icon": "☁️",
-      "order": 3,
+      "order": 4,
       "sites": [
         {
           "id": "cloudflare",
@@ -168,7 +204,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 4,
+      "order": 5,
       "sites": [
         {
           "id": "vscode",
@@ -218,7 +254,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 5,
+      "order": 6,
       "sites": [
         {
           "id": "linuxdo",
@@ -261,7 +297,7 @@ export const mockData = {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
-      "order": 6,
+      "order": 7,
       "sites": [
         {
           "id": "figma",
@@ -290,42 +326,6 @@ export const mockData = {
           "url": "https://www.adobe.com/products/xd.html",
           "description": "用户体验设计工具",
           "icon": "/sitelogo/www.adobe.com.ico"
-        }
-      ]
-    },
-    {
-      "id": "tools",
-      "name": "在线工具",
-      "icon": "⚙️",
-      "order": 7,
-      "sites": [
-        {
-          "id": "json-formatter",
-          "name": "JSON Formatter",
-          "url": "https://jsonformatter.org",
-          "description": "JSON格式化工具",
-          "icon": "/sitelogo/jsonformatter.org.ico"
-        },
-        {
-          "id": "regex101",
-          "name": "Regex101",
-          "url": "https://regex101.com",
-          "description": "正则表达式测试",
-          "icon": "/sitelogo/regex101.com.ico"
-        },
-        {
-          "id": "caniuse",
-          "name": "Can I Use",
-          "url": "https://caniuse.com",
-          "description": "浏览器兼容性查询",
-          "icon": "/sitelogo/caniuse.com.ico"
-        },
-        {
-          "id": "tinypng",
-          "name": "TinyPNG",
-          "url": "https://tinypng.com",
-          "description": "图片压缩工具",
-          "icon": "/sitelogo/tinypng.com.ico"
         }
       ]
     }
