@@ -90,6 +90,13 @@ export const mockData = {
           "url": "https://www.yuncai998.com/",
           "description": "重庆药品供应平台",
           "icon": "https://www.faviconextractor.com/favicon/www.yuncai998.com"
+        },
+        {
+          "id": "site-1784140859723",
+          "name": "宁波英特",
+          "url": "https://nbyt.drugoogle.com/",
+          "description": "本地合作医药公司",
+          "icon": "https://pic.rmb.bdstatic.com/bjh/events/d86ad459fbb9dab89a6c2257a99cfc74.jpeg"
         }
       ]
     },
