@@ -5,7 +5,15 @@ export const mockData = {
       "name": "自研平台",
       "icon": "🤖",
       "order": 1,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1784132803530",
+          "name": "飞牛NAS",
+          "url": "https://nas.yongshizhen.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/nas.yongshizhen.com"
+        }
+      ]
     },
     {
       "id": "cloud",
