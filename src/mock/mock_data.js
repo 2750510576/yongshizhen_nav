@@ -197,6 +197,13 @@ export const mockData = {
           "url": "https://imageconverter.com/zh/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/imageconverter.com"
+        },
+        {
+          "id": "site-1784177877059",
+          "name": "电子税局",
+          "url": "https://etax.ningbo.chinatax.gov.cn:8443/",
+          "description": "",
+          "icon": "https://imagepphcloud.thepaper.cn/pph/image/297/629/882.jpg"
         }
       ]
     },
