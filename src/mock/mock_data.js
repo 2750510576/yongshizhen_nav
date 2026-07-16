@@ -29,7 +29,7 @@ export const mockData = {
         },
         {
           "id": "site-1784138126960",
-          "name": "甬时珍邮箱",
+          "name": "甬时珍企业邮箱",
           "url": "https://mail.yongshizhen.com/",
           "description": "注册邮箱联系公司管理员",
           "icon": "https://www.faviconextractor.com/favicon/mail.yongshizhen.com"
