@@ -62,7 +62,22 @@ export const mockData = {
       "icon": "🌐",
       "name": "常用网站",
       "order": 1,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1784178646185",
+          "name": "程医橙心",
+          "url": "https://cycx.wprbyl.com/pc-prescription",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/cycx.wprbyl.com"
+        },
+        {
+          "id": "site-1784177877059",
+          "name": "电子税局",
+          "url": "https://etax.ningbo.chinatax.gov.cn:8443/",
+          "description": "",
+          "icon": "https://img0.baidu.com/it/u=287221846,3573601102&fm=253&fmt=auto&app=138&f=PNG?w=243&h=243"
+        }
+      ]
     },
     {
       "id": "office",
@@ -175,20 +190,6 @@ export const mockData = {
           "url": "https://imageconverter.com/zh/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/imageconverter.com"
-        },
-        {
-          "id": "site-1784178646185",
-          "name": "程医橙心",
-          "url": "https://cycx.wprbyl.com/pc-prescription",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/cycx.wprbyl.com"
-        },
-        {
-          "id": "site-1784177877059",
-          "name": "电子税局",
-          "url": "https://etax.ningbo.chinatax.gov.cn:8443/",
-          "description": "",
-          "icon": "https://img0.baidu.com/it/u=287221846,3573601102&fm=253&fmt=auto&app=138&f=PNG?w=243&h=243"
         }
       ]
     },
