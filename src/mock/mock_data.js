@@ -226,6 +226,13 @@ export const mockData = {
           "url": "https://www.xiaoheiketang.com/courseDetail?course_id=2635",
           "description": "计算机二级WPS真题解析",
           "icon": "https://www.faviconextractor.com/favicon/www.xiaoheiketang.com"
+        },
+        {
+          "id": "site-1784220470896",
+          "name": "小黑一级计算机WPS",
+          "url": "https://www.xiaoheiketang.com/courseDetail?course_id=358",
+          "description": "计算机一级WPS真题解析",
+          "icon": "https://www.faviconextractor.com/favicon/www.xiaoheiketang.com"
         }
       ]
     },
