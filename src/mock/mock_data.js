@@ -58,10 +58,17 @@ export const mockData = {
       ]
     },
     {
-      "id": "office",
-      "name": "常用列表",
-      "icon": "💼",
+      "id": "category-1784220075118",
+      "icon": "🌐",
+      "name": "常用网站",
       "order": 1,
+      "sites": []
+    },
+    {
+      "id": "office",
+      "name": "合作列表",
+      "icon": "💼",
+      "order": 2,
       "sites": [
         {
           "id": "site-1784140269965",
@@ -139,7 +146,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 2,
+      "order": 3,
       "sites": [
         {
           "id": "site-1784141613952",
@@ -189,7 +196,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 3,
+      "order": 4,
       "sites": [
         {
           "id": "site-1784135417970",
@@ -218,7 +225,7 @@ export const mockData = {
       "id": "cloud",
       "name": "技术支持",
       "icon": "☁️",
-      "order": 4,
+      "order": 5,
       "sites": [
         {
           "id": "cloudflare",
@@ -282,7 +289,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 5,
+      "order": 6,
       "sites": [
         {
           "id": "vscode",
