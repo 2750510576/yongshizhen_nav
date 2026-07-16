@@ -76,6 +76,13 @@ export const mockData = {
           "url": "https://etax.ningbo.chinatax.gov.cn:8443/",
           "description": "",
           "icon": "https://img0.baidu.com/it/u=287221846,3573601102&fm=253&fmt=auto&app=138&f=PNG?w=243&h=243"
+        },
+        {
+          "id": "site-1784220342999",
+          "name": "医保编码",
+          "url": "https://code.nhsa.gov.cn/toSearch.html?sysflag=1003",
+          "description": "",
+          "icon": "https://aisearch.cdn.bcebos.com/pic_create/2026-07-17/00/ac60e01139e87f16201a7c1832cfcdda.jpeg"
         }
       ]
     },
