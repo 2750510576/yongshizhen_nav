@@ -42,6 +42,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/docs.yongshizhen.com"
         },
         {
+          "id": "site-1784293847099",
+          "name": "门店管理系统",
+          "url": "https://manage.yongshizhen.top/",
+          "description": "集门店盘点货位管理一体",
+          "icon": ""
+        },
+        {
           "id": "site-1784132859742",
           "name": "甬时珍集团官网",
           "url": "https://www.yongshizhen.com",
