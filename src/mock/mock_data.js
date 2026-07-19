@@ -16,7 +16,7 @@ export const mockData = {
         {
           "id": "site-1784133556408",
           "name": "甬时珍图床",
-          "url": "https://imgs.yongshizhen.com/",
+          "url": "https://img.yongshizhen.com/",
           "description": "7月19日网站升级超大存储海量图片存储分享平台",
           "icon": "https://5b0988e595225.cdn.sohucs.com/images/20190710/0b2d0cd07cab4be7b7e9b2170315c1b9.png"
         },
