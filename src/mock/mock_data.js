@@ -94,7 +94,7 @@ export const mockData = {
         {
           "id": "site-1784567325387",
           "name": "行政处罚查询",
-          "url": "https://xzcf.zjzwfw.gov.cn/punishment/#/Punish?siteCode=330203000000",
+          "url": "https://xzcf.zjzwfw.gov.cn/punishment/#/Punish?siteCode=330201000000",
           "description": "",
           "icon": "https://img1.baidu.com/it/u=1794204904,855270759&fm=253&fmt=auto&app=120&f=JPEG"
         }
