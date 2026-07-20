@@ -86,10 +86,17 @@ export const mockData = {
         },
         {
           "id": "site-1784220342999",
-          "name": "医保编码",
+          "name": "医保编码查询",
           "url": "https://code.nhsa.gov.cn/toSearch.html?sysflag=1003",
           "description": "",
           "icon": "https://aisearch.cdn.bcebos.com/pic_create/2026-07-17/00/ac60e01139e87f16201a7c1832cfcdda.jpeg"
+        },
+        {
+          "id": "site-1784567325387",
+          "name": "行政处罚查询",
+          "url": "https://xzcf.zjzwfw.gov.cn/punishment/#/Punish?siteCode=330203000000",
+          "description": "",
+          "icon": "https://img1.baidu.com/it/u=1794204904,855270759&fm=253&fmt=auto&app=120&f=JPEG"
         }
       ]
     },
