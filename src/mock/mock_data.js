@@ -45,7 +45,7 @@ export const mockData = {
           "id": "site-1784293847099",
           "name": "门店管理系统",
           "url": "https://manage.yongshizhen.top/",
-          "description": "门店盘点货位拣货管理",
+          "description": "全自主知识产权自研系统",
           "icon": "https://img1.baidu.com/it/u=1897732871,2643484627&fm=253&fmt=auto&app=138&f=JPEG"
         },
         {
